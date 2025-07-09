@@ -2,7 +2,8 @@
 
 An interactive WebGL scene with a realistic coffee cup and smoke animation built using [Three.js / R3F / GLSL].
 
-![Coffee Smoke Demo](./assets/coffee-smoke-demo.gif)
+![Coffee Smoke Demo](./static/CoffeeSmoke.gif)
+
 
 ## 🔥 Features
 
